@@ -1,9 +1,0 @@
-{
-    "name": "ARTM DevSecOps Image builder",
-    "description": "Image builder workflow",
-    "iconName": "octicon iterations",
-    "categories": [
-        "continuous-integration"
-    ],
-    "labels": ["preview"]
-}
