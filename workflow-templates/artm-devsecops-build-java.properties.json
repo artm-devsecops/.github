@@ -1,0 +1,8 @@
+{
+    "name": "ARTM DevSecOps Java builder",
+    "description": "Java builder workflow",
+    "iconName": "octicon iterations",
+    "categories": [
+        "continuous-integration"
+    ]
+}
